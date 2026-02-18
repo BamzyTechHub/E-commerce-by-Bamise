@@ -16,12 +16,35 @@ const Home = () => {
   return (
     <section className="container page-stack">
       <section className="hero">
-        <p className="eyebrow">Modern Essentials</p>
-        <h1>Discover products that elevate your everyday routine</h1>
-        <p>Shop skincare, electronics, fashion, and fitness gear from one clean storefront.</p>
-        <Link to="/shop" className="btn btn-primary">
-          Explore Shop
-        </Link>
+        <p className="eyebrow">Curated Marketplace</p>
+        <h1>Shop premium picks built for modern everyday living</h1>
+        <p>
+          Explore skincare, electronics, fashion, and fitness essentials with a fast cart, smooth checkout,
+          and personalized shopping flow.
+        </p>
+        <div className="inline-actions">
+          <Link to="/shop" className="btn btn-primary">
+            Explore Shop
+          </Link>
+          <Link to="/form" className="btn btn-outline btn-light">
+            Send Request
+          </Link>
+        </div>
+      </section>
+
+      <section className="feature-strip">
+        <article>
+          <h3>Fast Checkout</h3>
+          <p>Quick totals, promo support, and clear order summary.</p>
+        </article>
+        <article>
+          <h3>Wishlist Sync</h3>
+          <p>Save products and move them to cart in one click.</p>
+        </article>
+        <article>
+          <h3>Retention Ready</h3>
+          <p>Email popup captures leads and keeps users engaged.</p>
+        </article>
       </section>
 
       <section>
