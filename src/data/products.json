@@ -1,0 +1,282 @@
+[
+  {
+    "id": 1,
+    "title": "HydraGlow Daily Cleanser",
+    "description": "Gentle gel cleanser that removes impurities without stripping moisture.",
+    "price": 18.99,
+    "category": "Skincare",
+    "rating": 4.6,
+    "stock": 30,
+    "images": [
+      "https://picsum.photos/seed/skincare1a/800/800",
+      "https://picsum.photos/seed/skincare1b/800/800"
+    ],
+    "sku": "SKN-001"
+  },
+  {
+    "id": 2,
+    "title": "Vitamin C Bright Serum",
+    "description": "Lightweight antioxidant serum for brighter and even-toned skin.",
+    "price": 29.5,
+    "category": "Skincare",
+    "rating": 4.8,
+    "stock": 22,
+    "images": [
+      "https://picsum.photos/seed/skincare2a/800/800",
+      "https://picsum.photos/seed/skincare2b/800/800"
+    ],
+    "sku": "SKN-002"
+  },
+  {
+    "id": 3,
+    "title": "Barrier Repair Moisturizer",
+    "description": "Ceramide-rich moisturizer built for dry and sensitive skin.",
+    "price": 24,
+    "category": "Skincare",
+    "rating": 4.7,
+    "stock": 28,
+    "images": [
+      "https://picsum.photos/seed/skincare3a/800/800",
+      "https://picsum.photos/seed/skincare3b/800/800"
+    ],
+    "sku": "SKN-003"
+  },
+  {
+    "id": 4,
+    "title": "Night Renewal Cream",
+    "description": "Overnight cream with peptides to support smoother skin texture.",
+    "price": 34.99,
+    "category": "Skincare",
+    "rating": 4.5,
+    "stock": 18,
+    "images": [
+      "https://picsum.photos/seed/skincare4a/800/800",
+      "https://picsum.photos/seed/skincare4b/800/800"
+    ],
+    "sku": "SKN-004"
+  },
+  {
+    "id": 5,
+    "title": "AeroBeat Wireless Headphones",
+    "description": "Noise-isolating over-ear headphones with 30-hour battery life.",
+    "price": 89.99,
+    "category": "Electronics",
+    "rating": 4.4,
+    "stock": 17,
+    "images": [
+      "https://picsum.photos/seed/electronics1a/800/800",
+      "https://picsum.photos/seed/electronics1b/800/800"
+    ],
+    "sku": "ELC-001"
+  },
+  {
+    "id": 6,
+    "title": "PulseSmart Fitness Watch",
+    "description": "Track heart rate, sleep, and steps with an AMOLED display.",
+    "price": 119,
+    "category": "Electronics",
+    "rating": 4.3,
+    "stock": 21,
+    "images": [
+      "https://picsum.photos/seed/electronics2a/800/800",
+      "https://picsum.photos/seed/electronics2b/800/800"
+    ],
+    "sku": "ELC-002"
+  },
+  {
+    "id": 7,
+    "title": "ChargeDock Pro 3-in-1",
+    "description": "Compact charging station for phone, earbuds, and smartwatch.",
+    "price": 49.95,
+    "category": "Electronics",
+    "rating": 4.2,
+    "stock": 35,
+    "images": [
+      "https://picsum.photos/seed/electronics3a/800/800",
+      "https://picsum.photos/seed/electronics3b/800/800"
+    ],
+    "sku": "ELC-003"
+  },
+  {
+    "id": 8,
+    "title": "UltraView 4K Webcam",
+    "description": "Crisp 4K webcam with autofocus and low-light enhancement.",
+    "price": 74.25,
+    "category": "Electronics",
+    "rating": 4.1,
+    "stock": 14,
+    "images": [
+      "https://picsum.photos/seed/electronics4a/800/800",
+      "https://picsum.photos/seed/electronics4b/800/800"
+    ],
+    "sku": "ELC-004"
+  },
+  {
+    "id": 9,
+    "title": "Essential Cotton Tee",
+    "description": "Breathable premium cotton t-shirt for everyday wear.",
+    "price": 22,
+    "category": "Fashion",
+    "rating": 4.5,
+    "stock": 50,
+    "images": [
+      "https://picsum.photos/seed/fashion1a/800/800",
+      "https://picsum.photos/seed/fashion1b/800/800"
+    ],
+    "sku": "FSH-001"
+  },
+  {
+    "id": 10,
+    "title": "Tailored Slim Chinos",
+    "description": "Stretch slim-fit chinos suitable for work or casual looks.",
+    "price": 44.5,
+    "category": "Fashion",
+    "rating": 4.4,
+    "stock": 31,
+    "images": [
+      "https://picsum.photos/seed/fashion2a/800/800",
+      "https://picsum.photos/seed/fashion2b/800/800"
+    ],
+    "sku": "FSH-002"
+  },
+  {
+    "id": 11,
+    "title": "Urban Runner Sneakers",
+    "description": "Lightweight daily sneakers with cushioned midsoles.",
+    "price": 68.75,
+    "category": "Fashion",
+    "rating": 4.6,
+    "stock": 27,
+    "images": [
+      "https://picsum.photos/seed/fashion3a/800/800",
+      "https://picsum.photos/seed/fashion3b/800/800"
+    ],
+    "sku": "FSH-003"
+  },
+  {
+    "id": 12,
+    "title": "Classic Denim Jacket",
+    "description": "Timeless medium-wash denim jacket with durable stitching.",
+    "price": 79.99,
+    "category": "Fashion",
+    "rating": 4.3,
+    "stock": 19,
+    "images": [
+      "https://picsum.photos/seed/fashion4a/800/800",
+      "https://picsum.photos/seed/fashion4b/800/800"
+    ],
+    "sku": "FSH-004"
+  },
+  {
+    "id": 13,
+    "title": "PowerFlex Yoga Mat",
+    "description": "Non-slip 6mm yoga mat with high-density cushioning.",
+    "price": 32,
+    "category": "Fitness",
+    "rating": 4.7,
+    "stock": 42,
+    "images": [
+      "https://picsum.photos/seed/fitness1a/800/800",
+      "https://picsum.photos/seed/fitness1b/800/800"
+    ],
+    "sku": "FIT-001"
+  },
+  {
+    "id": 14,
+    "title": "Adjustable Dumbbell Set",
+    "description": "Space-saving dumbbell pair adjustable from 5 to 25 lbs.",
+    "price": 159.99,
+    "category": "Fitness",
+    "rating": 4.8,
+    "stock": 12,
+    "images": [
+      "https://picsum.photos/seed/fitness2a/800/800",
+      "https://picsum.photos/seed/fitness2b/800/800"
+    ],
+    "sku": "FIT-002"
+  },
+  {
+    "id": 15,
+    "title": "Resistance Band Kit",
+    "description": "Five-level resistance bands with handles and anchor.",
+    "price": 27.5,
+    "category": "Fitness",
+    "rating": 4.5,
+    "stock": 38,
+    "images": [
+      "https://picsum.photos/seed/fitness3a/800/800",
+      "https://picsum.photos/seed/fitness3b/800/800"
+    ],
+    "sku": "FIT-003"
+  },
+  {
+    "id": 16,
+    "title": "CoreRoller Foam Tube",
+    "description": "Deep tissue roller designed for warm-up and recovery.",
+    "price": 21.25,
+    "category": "Fitness",
+    "rating": 4.2,
+    "stock": 46,
+    "images": [
+      "https://picsum.photos/seed/fitness4a/800/800",
+      "https://picsum.photos/seed/fitness4b/800/800"
+    ],
+    "sku": "FIT-004"
+  },
+  {
+    "id": 17,
+    "title": "HydraMist Sunscreen SPF 50",
+    "description": "Broad-spectrum mineral sunscreen with matte finish.",
+    "price": 19.75,
+    "category": "Skincare",
+    "rating": 4.4,
+    "stock": 26,
+    "images": [
+      "https://picsum.photos/seed/skincare5a/800/800",
+      "https://picsum.photos/seed/skincare5b/800/800"
+    ],
+    "sku": "SKN-005"
+  },
+  {
+    "id": 18,
+    "title": "NovaPods True Wireless",
+    "description": "Compact earbuds with low-latency mode and rich bass.",
+    "price": 59.99,
+    "category": "Electronics",
+    "rating": 4.2,
+    "stock": 29,
+    "images": [
+      "https://picsum.photos/seed/electronics5a/800/800",
+      "https://picsum.photos/seed/electronics5b/800/800"
+    ],
+    "sku": "ELC-005"
+  },
+  {
+    "id": 19,
+    "title": "Structured Leather Belt",
+    "description": "Genuine leather belt with brushed metal buckle.",
+    "price": 26.95,
+    "category": "Fashion",
+    "rating": 4.1,
+    "stock": 34,
+    "images": [
+      "https://picsum.photos/seed/fashion5a/800/800",
+      "https://picsum.photos/seed/fashion5b/800/800"
+    ],
+    "sku": "FSH-005"
+  },
+  {
+    "id": 20,
+    "title": "Performance Water Bottle",
+    "description": "Insulated steel bottle keeps drinks cold up to 24 hours.",
+    "price": 24.49,
+    "category": "Fitness",
+    "rating": 4.6,
+    "stock": 40,
+    "images": [
+      "https://picsum.photos/seed/fitness5a/800/800",
+      "https://picsum.photos/seed/fitness5b/800/800"
+    ],
+    "sku": "FIT-005"
+  }
+]
